@@ -1,6 +1,7 @@
 # HOSPITALITY_REPORT_ANALSIS
 
 # AIMS AND OBJECTIVES
+
 1. Customer Satisfaction: Evaluate and understand customer feedback and preferences to enhance the overall experience.
 
 2.Operational Efficiency: Identify areas for improvement in service delivery, resource allocation, and staff management to streamline operations.
